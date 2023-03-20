@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33402.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidationDemo", "FluentValidationDemo.csproj", "{EF3F6940-DDFF-4305-98D5-795D6E5D5D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "..\ModelLibrary\ModelLibrary.csproj", "{1E553AAC-239C-4D97-850A-0BF8FF652DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3F6940-DDFF-4305-98D5-795D6E5D5D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3F6940-DDFF-4305-98D5-795D6E5D5D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3F6940-DDFF-4305-98D5-795D6E5D5D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3F6940-DDFF-4305-98D5-795D6E5D5D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E553AAC-239C-4D97-850A-0BF8FF652DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E553AAC-239C-4D97-850A-0BF8FF652DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E553AAC-239C-4D97-850A-0BF8FF652DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E553AAC-239C-4D97-850A-0BF8FF652DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29992FCA-D9AA-494A-989F-624EF4812C35}
+	EndGlobalSection
+EndGlobal
